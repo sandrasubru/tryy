@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: rgb(240, 215, 215);
+
+}
+.ban{
+    color:rgb(3, 68, 21);
+    font-size: xx-large;
+    font-style: unset;
+    font-weight:bolder;
+    background-color:green;
+    position:absolute;
+    top: 20px;
+    margin: 50px;
+    right: 500px;;
+    
+    
+}
+.img{
+    right: inherit:100px;
+    
+     height: 50px;
+     margin: 50px auto;
+    
+    
+}
+.ach{
+    font-size:x-large;
+    font-style: italic;
+    color: rgb(3, 68, 21);
+    position:absolute;
+    bottom: 10px;
+    margin: 0px;
+    right: 10px;
+} 
